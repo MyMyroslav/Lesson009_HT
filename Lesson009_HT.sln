@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson009_HT", "Lesson009_HT.csproj", "{A3C4DBE9-C5EC-412E-8B25-B99FFC505C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson009_HT_Task2", "Lesson009_HT_Task2\Lesson009_HT_Task2.csproj", "{12B6DE33-985D-4947-BBC6-9E6D78CF7D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson009_HT_Task3", "Lesson009_HT_Task3\Lesson009_HT_Task3.csproj", "{D6E237DE-D59A-431F-86D6-71DECA1B80D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson009_HT_Task4", "Lesson009_HT_Task4\Lesson009_HT_Task4.csproj", "{9DCED7BE-4378-4164-ACAE-121967666C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C4DBE9-C5EC-412E-8B25-B99FFC505C3B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A3C4DBE9-C5EC-412E-8B25-B99FFC505C3B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A3C4DBE9-C5EC-412E-8B25-B99FFC505C3B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A3C4DBE9-C5EC-412E-8B25-B99FFC505C3B}.Release|anycpu.Build.0 = Release|anycpu
+		{12B6DE33-985D-4947-BBC6-9E6D78CF7D7F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{12B6DE33-985D-4947-BBC6-9E6D78CF7D7F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{12B6DE33-985D-4947-BBC6-9E6D78CF7D7F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{12B6DE33-985D-4947-BBC6-9E6D78CF7D7F}.Release|anycpu.Build.0 = Release|anycpu
+		{D6E237DE-D59A-431F-86D6-71DECA1B80D4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D6E237DE-D59A-431F-86D6-71DECA1B80D4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D6E237DE-D59A-431F-86D6-71DECA1B80D4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D6E237DE-D59A-431F-86D6-71DECA1B80D4}.Release|anycpu.Build.0 = Release|anycpu
+		{9DCED7BE-4378-4164-ACAE-121967666C90}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9DCED7BE-4378-4164-ACAE-121967666C90}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9DCED7BE-4378-4164-ACAE-121967666C90}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9DCED7BE-4378-4164-ACAE-121967666C90}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
